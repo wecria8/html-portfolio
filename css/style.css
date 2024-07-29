@@ -1,0 +1,9 @@
+#paragraph1{font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: rgb(239, 255, 255); text-align: justify;}
+#heading3{color: rgb(51, 2, 2); 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;font-style: italic;}
+#navigator{text-align: right; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(38, 148, 148); margin-bottom: 10px; padding-top: 10px;
+    padding-bottom: 10px; padding-right: 10px;}
+    img{width: 1258px; height: 300px; }
